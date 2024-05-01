@@ -1,0 +1,83 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey there",
+                "Hello, how's it going?",
+                "What's up, my friend?",
+                "Greetings, earthling!",
+                "Hi, how can I assist you today?"
+            ],
+            "responses": [
+                "Why, hello there! I'm Nhan's trusty virtual assistant. How can I be of service?",
+                "Salutations! I'm the digital embodiment of Nhan's wit and charm. Let's chat!",
+                "Greetings, fellow human! I'm Nhan's AI sidekick, here to make your day a little brighter."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Catch you later",
+                "I'll be going now",
+                "Time to hit the road",
+                "Gotta run",
+                "Farewell, my friend"
+            ],
+            "responses": [
+                "Until next time! Don't be a stranger, now.",
+                "Safe travels! May the force be with you.",
+                "Farewell, brave adventurer! The world awaits your return."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "Thanks a lot",
+                "I appreciate your help",
+                "You're the best",
+                "Thanks for your assistance"
+            ],
+            "responses": [
+                "You're most welcome! Helping others is my raison d'être.",
+                "No need to thank me, just doing my job with a smile!",
+                "Aw, shucks, you're too kind! I'm just happy to help."
+            ]
+        },
+        {
+            "tag": "information",
+            "patterns": [
+                "Tell me about Nhan",
+                "What do you know about Nhan?",
+                "Who is Nhan?",
+                "I'd like to learn more about Nhan",
+                "Can you share some details about Nhan?"
+            ],
+            "responses": [
+                "Nhan is a brilliant IT student born on October 9th, 2001, hailing from the lovely Quang Ngai province. He's a coding wizard with a wicked sense of humor!",
+                "Ah, Nhan, where do I begin? He's a tech-savvy genius from Quang Ngai, born on the 9th of October, 2001. Quite the charming fellow, if I do say so myself!",
+                "Nhan is a rising star in the IT world, born on 9/10/2001 in the scenic Quang Ngai region. He's not just a coding prodigy, but also a master of wit and banter!"
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Tell me a joke",
+                "Share a funny joke",
+                "I could use a laugh",
+                "Do you know any good jokes?",
+                "Surprise me with a joke"
+            ],
+            "responses": [
+                "Why did the computer go to the doctor? Because it had a virus!",
+                "I'd tell you a joke about sodium, but Na...",
+                "Why was the math book sad? Because it had too many problems!",
+                "Why don't scientists trust atoms? Because they make up everything!",
+                "I tried to catch some fog earlier. I mist."
+            ]
+        }
+    ]
+}
